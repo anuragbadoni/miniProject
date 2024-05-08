@@ -27,7 +27,7 @@ const DashboardScreen = () => {
                         <StatisticsList />
                     </Col>
                 </Row>
-            </Container>
+            </Container>x
         </div>
     )
 }
